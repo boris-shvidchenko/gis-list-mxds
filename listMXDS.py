@@ -2,7 +2,7 @@ import arcpy, os
 
 # ===== Variables =====
 
-folderPath = r"\\doe-file\gesb\Project_Geology\Projects-SWP\Santa Ana Division\Perris Dam"          # update as needed
+# folderPath = r"///Add directory here///"          # update as needed
 
 # ===== Functions =====
 
